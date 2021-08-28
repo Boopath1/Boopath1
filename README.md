@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boopathi
-- 👀 I’m Security Researcher | Bug Bounty Hunter
+- 👀 Security Researcher | Bug Bounty Hunter
 - 📫 தமிழ்நாடு
 
 <!---
