@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Boopathi
 - 👀 I’m Security Researcher | Bug Bounty Hunter
-- 🌱 CEH V11
 - 📫 தமிழ்நாடு
 
 <!---
