@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Boopathi
-- 👀 I’m interested in Cyber Security Researcher
+- 👀 I’m Security Researcher | Bug Bounty Hunter
 - 🌱 Currently I'm learning Bug Bounty Hunting
 - 📫 I'm from தமிழ்நாடு
 
