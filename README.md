@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Boopathi
 - 👀 I’m Security Researcher | Bug Bounty Hunter
-- 🌱 Currently I'm learning Bug Bounty Hunting
-- 📫 I'm from தமிழ்நாடு
+- 🌱 CEH V11
+- 📫 தமிழ்நாடு
 
 <!---
 Boopath1/Boopath1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
