@@ -12,7 +12,7 @@
 
 <hr>
 
-### 🌐  My Online Presence
+### 🌐  என்னை தொடர்பு கொள்ளவும்
 
 <p align="left">
 <a href="https://www.linkedin.com/in/boopathi-s/" target="_blank">
