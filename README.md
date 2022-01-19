@@ -4,7 +4,7 @@
 
 ### About Me
 
-- 🔭 I’m currently working in HKIT Security Solutions(Bangalore)
+- 🔭 I’m currently working as a Security Researcher(Bangalore)
 - 👯 I’m looking to collaborate on Bug Bounty
 - 💬 Ask me about Ethical hacking & Cyber Security
 - 📫 How to reach me : **[Bobby](https://www.linkedin.com/in/boopathi-s/)** (Linkedin)
