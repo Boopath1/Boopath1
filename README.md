@@ -51,5 +51,5 @@
 ---
 
 <p align="center">
-<i>"The quieter you become, the more you are able to hear" - 0xbobby</i>
+<i>"The quieter you become, the more you are able to hear"</i>
 </p>
