@@ -6,18 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=Boopath1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<div align="center">
-  
-  ```bash
-  └─$ whoami
-  ┌──(bobby㉿kali)-[~]
-  └─$ cat profile.txt
-  🔐 Security Engineer with expertise in DevSecOps & Bug Hunting
-  🎯 Specializing in Application Security & Penetration Testing
-  🏆 CEH v11 & CRTP Certified Professional
-  ```
-  
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80%" alt="Welcome Banner">
+</p>
 
 ## 🛠️ Arsenal & Skills  
 
